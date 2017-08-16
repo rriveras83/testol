@@ -2,14 +2,13 @@
 Test OL
 
 Herramientas utilizadas
-
-Spring Boot
-Spring Data
-Jersey
-Angular
-Bootstrap
-Maven
-H2
++ Spring Boot
++ Spring Data
++ Jersey
++ Angular
++ Bootstrap
++ Maven
++ H2
 
 Para utilizar el proyecto se debera de compilar con el comando
 
